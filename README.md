@@ -1,9 +1,40 @@
-- 👋 Hi, I’m @cedric-kany
-- 👀 I’m interested in design and programming
-- 🌱 I’m currently learning typescript
-- 📫 How to reach me? -> hi@cedrickany.de
+![Cedric´s GitHub Banner](./assets/Banner.jpg)
+![Visits Badge](https://badges.pufler.dev/visits/cedric-kany/cedric-kany)
 
-<!---
-cedric-kany/cedric-kany is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Hallöchen 👋
+
+Welcome to my GitHub Page.<br>
+I am Cedric, 18 years old and currently studying mechatronics.<br>
+Since ~5 years I'm teaching myself how to code and design. I did an intern 4 years ago at a graphic design studio and the best way to combine my two interests in design and coding was front-end development.<br>
+If you want to see some of my project, [check out my portfolio](https://cedrickany.de/).
+
+## 💼 My Skills
+
+<div>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" title="vscode">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" title="git">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" title="c">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40" height="40" title="dart">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg" width="40" height="40" title="flutter">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" width="40" height="40" title="html">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" title="css">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" title="tailwind">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" height="40" title="firebase">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="40" height="40" title="graphql">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" height="40" title="javascript">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" title="react">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" title="next.js">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" title="nodejs">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40" title="figma">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" width="40" height="40" title="illustrator">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" width="40" height="40" title="photoshop">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-plain.svg" width="40" height="40" title="premierepro">
+</div>
+
+---
+
+![Cedric's GitHub stats](https://github-readme-stats.vercel.app/api?username=cedric-kany&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cedric-kany&theme=dark)
+
+[![Portfolio Card](https://github-readme-stats.vercel.app/api/pin/?username=cedric-kany&repo=portfolio&theme=dark)](https://github.com/cedric-kany/portfolio)
