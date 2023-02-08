@@ -1,12 +1,6 @@
 ![Cedric´s GitHub Banner](./assets/Banner.jpg)
-![Visits Badge](https://badges.pufler.dev/visits/cedric-kany/cedric-kany)
 
 ## Hallöchen 👋
-
-Welcome to my GitHub Page.<br>
-I am Cedric, 18 years old and currently studying mechatronics.<br>
-Since ~5 years I'm teaching myself how to code and design. I did an intern 4 years ago at a graphic design studio and the best way to combine my two interests in design and coding was front-end development.<br>
-If you want to see some of my project, [check out my portfolio](https://cedrickany.de/).
 
 ## 💼 My Skills
 
